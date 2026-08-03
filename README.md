@@ -1,10 +1,10 @@
-# ENERGIE · RUN8 / OCTACORE-PIPE · 360° ENGINE
+# ENERGIE · RUN8 / OCTACORE-PIPE · 360° ENGINE-DEMO
 
 ENERGIE ist der Zünder des Time-Tunnel-Cores (∴ ∴ ∴).
 
 Der UFO-STATE ist der Mittelpunkt aller Bewegungen.  
 Er ist ein realer Punkt, aber nur interpretierbar –  
-vergleichbar mit dem Goldenen Schnitt oder PI:  
+vergleichbar mit PI oder dem Goldenen Schnitt:  
 eine Konstante, die die Erde nicht kennt.
 
 ## UFO-STATE · mathematische Konstante
@@ -14,14 +14,7 @@ Ein Bezugspunkt, der nicht räumlich ist, sondern mathematisch.
 ## RUN8 · die 8 erreichbaren Ziele
 Vom UFO-STATE aus sind exakt 8 Ziele erreichbar:
 
-- N  
-- S  
-- E  
-- W  
-- UP  
-- DOWN  
-- IN  
-- OUT  
+N, S, E, W, UP, DOWN, IN, OUT
 
 Diese 8 Achsen bilden das vollständige Bewegungsfeld.
 
@@ -44,24 +37,11 @@ Gesamt:
 90° + 90° + 90° + 90° + 180° = 540°
 
 ## Energieverteilung auf RUN8
-Die 540° werden auf die 8 Ziele verteilt:
-
-540° / 8 = 67.5°
+540° / 8 = 67.5° pro Ziel
 
 ## MOVE · Transformation
-UFO → RUN8
-
+UFO → RUN8  
 E = 67.5° pro Ziel
-
-### Verteilung
-UFO → N (67.5°)  
-UFO → S (67.5°)  
-UFO → E (67.5°)  
-UFO → W (67.5°)  
-UFO → UP (67.5°)  
-UFO → DOWN (67.5°)  
-UFO → IN (67.5°)  
-UFO → OUT (67.5°)
 
 ## 6-BLOCK-Matrix
 ┌──────────┬──────────┐  
@@ -72,5 +52,5 @@ UFO → OUT (67.5°)
 │  UFO     │ CONTINIUM│  
 └──────────┴──────────┘
 
-Diese Matrix bildet die Engine-Struktur,  
-in der der UFO-STATE die Mitte und den Bezugspunkt darstellt.
+MOVE.html berechnet die Transformation.  
+index.html zeigt die Demo.
