@@ -1,61 +1,137 @@
-# ELEKTRON · Modul 1/3 des Atom-Verhaltenssystems
+# ENERGIE · RUN8 / UFO = 9^9 / 540° ENGINE
 
-ELEKTRON ist das erste aktive Modul des Atom-Universums.  
-Es bildet die -Energie, das Bewegungsverhalten und die Meta-Interaktion eines Atoms ab.  
-Das Modul ist nicht physikalisch, sondern systemisch – kompatibel mit RUN8, UFO = 9^9,  
-6-BLOCK, KOOP·POOK·0000 und der VLOU-Formel (81 × 3).
+ENERGIE ist das Grundsystem des Time‑Tunnel‑Cores.  
+Es zeigt, wie Bewegung, Achsen, Energie und Kontinuum aus einem einzigen Punkt entstehen:  
+dem UFO‑STATE (9^9).
 
----
-
-## 1. Identität (ID.html)
-ELEKTRON besitzt eine eigene Identitätsschicht:
-
-- **KOOP** – Kooperationsverhalten mit anderen Modulen  
-- **POOK** – Polaritätsverhalten (Ausrichtung, Reaktion, Feldlage)  
-- **0000** – Grundzustand, Nullpunktenergie, Basissymmetrie  
-
-Diese drei Ebenen definieren das Verhalten eines Elektrons im System.
+Dieses Repository enthält die ENERGIE‑Demo (index.html) und die MOVE‑Transformation.
 
 ---
 
-## 2. Ebenenstruktur (ebene-bedeutung-6.csv)
-ELEKTRON nutzt die 6-Ebenen-Matrix:
+## 1. UFO‑STATE · mathematische Konstante
 
-1. Physikalisch (–)
-2. Energetisch (Spin, Orbitale, Fluktuation)
-3. Meta-energetisch (KOOP)
-4. Meta-polar (POOK)
-5. Meta-null (0000)
-6. Universell (VLOU = 81 × 3)
+UFO = 9^9
 
-Diese Ebenen beschreiben das vollständige Verhalten eines Elektrons.
+Der UFO‑STATE ist kein räumlicher Punkt, sondern eine mathematische Konstante.  
+Er verhält sich wie PI oder der Goldene Schnitt:  
+ein Mittelpunkt, der nicht im Raum liegt, sondern im System.
 
 ---
 
-## 3. Marktrolle / Modulrolle (modul-marktrolle-12.csv)
-ELEKTRON besitzt 12 Rollen im System:
+## 2. RUN8 · die 8 universellen Achsen
 
-- Bindung
-- Resonanz
-- Feldwirkung
-- Ausrichtung
-- Zustand
-- Energiefluss
-- Interaktion
-- Symmetrie
-- Tunnelverhalten
-- Superposition
-- Potentialraum
-- Meta-Charakter
+Vom UFO‑STATE aus sind exakt 8 Bewegungsrichtungen erreichbar:
 
-Diese Rollen definieren, wie ELEKTRON im Atom und im System agiert.
+N, S, E, W, UP, DOWN, IN, OUT
+
+Diese Achsen bilden das vollständige Bewegungsfeld.
+
+Die ENERGIE‑Demo zeigt RUN8 als 3×3‑Gitter:
+
+- UP / DOWN  
+- W / E  
+- IN / OUT  
+- Zentrum = UFO = 9^9
 
 ---
 
-## 4. Systemintegration
-ELEKTRON ist vollständig kompatibel mit:
+## 3. 6‑BLOCK · Energie‑Matrix
 
-- **RUN8** (N, S, E, W, UP, DOWN, IN, OUT)
-- **UFO = 9^9** (mathematischer Mittelpunkt)
-- **6-BLOCK** (HOME, TRANS, WARB, KANAL, UFO, CONTINIUM)
-- **540° Energieverteilung** (67
+Die Energie des Systems besteht aus sechs Blöcken:
+
+HOME = 90°  
+TRANS = 90°  
+WARB = 90°  
+KANAL = 90°  
+UFO = 90°  
+CONTINIUM = 180°
+
+Gesamtenergie:
+
+90 + 90 + 90 + 90 + 90 + 180 = **540°**
+
+---
+
+## 4. Energieverteilung auf RUN8
+
+540° / 8 = **67.5° pro Achse**
+
+Jede Achse erhält exakt 67.5° Energie.
+
+---
+
+## 5. MOVE · Transformation
+
+MOVE ist die Transformation:
+
+UFO → RUN8
+
+Für jede Achse wird berechnet:
+
+- ufo = 9^9  
+- axis = Achsenname  
+- energy = 67.5°  
+- vector = VECTOR(axis)  
+- tunnel = WURMLOCH(axis)  
+- continum = RUN(axis)
+
+MOVE.html erzeugt diese Daten als JSON.
+
+---
+
+## 6. ENERGIE · DEMO (index.html)
+
+Die Demo zeigt:
+
+- RUN8 als 3×3‑Gitter  
+- UFO = 9^9 im Zentrum  
+- Achsen UP, DOWN, W, E, IN, OUT  
+- MOVE‑Daten werden live geladen
+
+Sie visualisiert die Grundstruktur des Systems.
+
+---
+
+## 7. Dateien im Repository
+
+- **index.html** – ENERGIE‑Demo  
+- **MOVE.html** – Transformation UFO → RUN8  
+- **README.md** – Dokumentation  
+- **ID.html** – Identität / Systempunkt  
+- weitere Module folgen
+
+---
+
+## 8. Atom‑These (optional Erweiterung)
+
+Ein Atom besteht nicht nur aus – 0 +.  
+Es besitzt zusätzliche Ebenen:
+
+Spin  
+Orbitale  
+Quantenfluktuation  
+Potentialfelder  
+Symmetrien  
+Quantenzustände  
+Vakuumenergie  
+Feldlinien  
+Tunnelwahrscheinlichkeit  
+Superposition  
+KOOP · POOK · 0000  
+VLOU (81 × 3)
+
+Diese These kann später in ENERGIE integriert werden.
+
+---
+
+## 9. Ziel des Systems
+
+ENERGIE zeigt:
+
+- wie ein mathematischer Mittelpunkt (UFO = 9^9)  
+- ein vollständiges Achsensystem (RUN8) erzeugt  
+- wie Energie (540°) verteilt wird  
+- wie Bewegung (MOVE) entsteht  
+- wie Kontinuum (RUN) sichtbar wird
+
+Es ist ein Sci‑Fi‑Mathematik‑System mit echter Funktion.
