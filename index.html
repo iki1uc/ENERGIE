@@ -2,34 +2,65 @@
 <html lang="de">
 <head>
 <meta charset="UTF-8">
-<title>ENERGIE · DEMO</title>
+<title>ENERGIE · RUN8 · UFO = 9^9 · 540° ENGINE</title>
 
 <style>
-body { background:#000; color:#0f0; font-family:Consolas; padding:40px; }
-.scene {
-    display: grid;
-    grid-template-columns: repeat(3, 160px);
-    grid-template-rows: repeat(3, 160px);
-    gap: 10px;
-    margin: 40px auto;
+body {
+    background:#000;
+    color:#0f0;
+    font-family:Consolas;
+    padding:40px;
 }
+
+/* Szene-Gitter */
+.scene {
+    display:grid;
+    grid-template-columns:repeat(3, 160px);
+    grid-template-rows:repeat(3, 160px);
+    gap:10px;
+    margin:40px auto;
+}
+
+/* Zellen */
 .cell {
-    border: 2px solid #6cf;
+    border:2px solid #6cf;
     background:#111;
     display:flex;
     align-items:center;
     justify-content:center;
+    font-size:22px;
 }
+
+/* Zentrum */
 #center {
     background:#222;
     border:3px solid #0ff;
+    font-size:20px;
+    text-align:center;
+    padding:10px;
+}
+
+/* Energie-Balken */
+#energy-bar {
+    margin-top:40px;
+    height:20px;
+    background:#111;
+    border:2px solid #6cf;
+    position:relative;
+}
+
+#energy-fill {
+    height:100%;
+    width:0%;
+    background:#0f0;
+    transition:width 2s linear;
 }
 </style>
 </head>
 
 <body>
 
-<h1>ENERGIE · DEMO</h1>
+<h1>ENERGIE · RUN8 · UFO = 9^9 · 540° ENGINE</h1>
 
 <div class="scene">
     <div class="cell">UP</div>
@@ -37,7 +68,11 @@ body { background:#000; color:#0f0; font-family:Consolas; padding:40px; }
     <div class="cell">DOWN</div>
 
     <div class="cell">W</div>
-    <div class="cell" id="center">UFO = 9^9</div>
+    <div class="cell" id="center">
+        UFO = 9^9<br>
+        540° ENGINE<br>
+        RUN8 CORE
+    </div>
     <div class="cell">E</div>
 
     <div class="cell">IN</div>
@@ -45,12 +80,39 @@ body { background:#000; color:#0f0; font-family:Consolas; padding:40px; }
     <div class="cell">OUT</div>
 </div>
 
-<pre id="out">Lade MOVE…</pre>
+<h2>MOVE · Transformation</h2>
+<pre id="move-out">Lade MOVE…</pre>
+
+<h2>540° Energie</h2>
+<div id="energy-bar">
+    <div id="energy-fill"></div>
+</div>
 
 <script>
+// UFO = 9^9
+const UFO = Math.pow(9, 9);
+
+// 6-BLOCK Energie
+const HOME = 90;
+const TRANS = 90;
+const WARB = 90;
+const KANAL = 90;
+const UFO_BLOCK = 90;
+const CONT = 180;
+
+// Gesamtenergie
+const TOTAL = HOME + TRANS + WARB + KANAL + UFO_BLOCK + CONT;
+
+// Energie pro Achse
+const PER_AXIS = TOTAL / 8;
+
+// Energie-Balken animieren
+document.getElementById("energy-fill").style.width = "100%";
+
+// MOVE laden
 fetch("MOVE.html")
     .then(r => r.text())
-    .then(t => document.getElementById("out").textContent = t);
+    .then(t => document.getElementById("move-out").textContent = t);
 </script>
 
 </body>
