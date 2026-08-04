@@ -1,56 +1,61 @@
-# ENERGIE · RUN8 / OCTACORE-PIPE · 360° ENGINE-DEMO
+# ELEKTRON · Modul 1/3 des Atom-Verhaltenssystems
 
-ENERGIE ist der Zünder des Time-Tunnel-Cores (∴ ∴ ∴).
+ELEKTRON ist das erste aktive Modul des Atom-Universums.  
+Es bildet die -Energie, das Bewegungsverhalten und die Meta-Interaktion eines Atoms ab.  
+Das Modul ist nicht physikalisch, sondern systemisch – kompatibel mit RUN8, UFO = 9^9,  
+6-BLOCK, KOOP·POOK·0000 und der VLOU-Formel (81 × 3).
 
-Der UFO-STATE ist der Mittelpunkt aller Bewegungen.  
-Er ist ein realer Punkt, aber nur interpretierbar –  
-vergleichbar mit PI oder dem Goldenen Schnitt:  
-eine Konstante, die die Erde nicht kennt.
+---
 
-## UFO-STATE · mathematische Konstante
-UFO = 9^9  
-Ein Bezugspunkt, der nicht räumlich ist, sondern mathematisch.
+## 1. Identität (ID.html)
+ELEKTRON besitzt eine eigene Identitätsschicht:
 
-## RUN8 · die 8 erreichbaren Ziele
-Vom UFO-STATE aus sind exakt 8 Ziele erreichbar:
+- **KOOP** – Kooperationsverhalten mit anderen Modulen  
+- **POOK** – Polaritätsverhalten (Ausrichtung, Reaktion, Feldlage)  
+- **0000** – Grundzustand, Nullpunktenergie, Basissymmetrie  
 
-N, S, E, W, UP, DOWN, IN, OUT
+Diese drei Ebenen definieren das Verhalten eines Elektrons im System.
 
-Diese 8 Achsen bilden das vollständige Bewegungsfeld.
+---
 
-## TRANS WARB KANAL · Rotationssystem
-TRANS WARB KANAL erzeugt zwei Rotationen:
+## 2. Ebenenstruktur (ebene-bedeutung-6.csv)
+ELEKTRON nutzt die 6-Ebenen-Matrix:
 
-90° + 90° = 180° Warp-Rotation
+1. Physikalisch (–)
+2. Energetisch (Spin, Orbitale, Fluktuation)
+3. Meta-energetisch (KOOP)
+4. Meta-polar (POOK)
+5. Meta-null (0000)
+6. Universell (VLOU = 81 × 3)
 
-## Time-Tunnel
-Die Tunnelöffnung erzeugt weitere 180°.
+Diese Ebenen beschreiben das vollständige Verhalten eines Elektrons.
 
-## Gesamtenergie
-HOME = 90°  
-TRANS = +90°  
-WARB = +90°  
-KANAL = +90°  
-CONTINIUM = +180°
+---
 
-Gesamt:
-90° + 90° + 90° + 90° + 180° = 540°
+## 3. Marktrolle / Modulrolle (modul-marktrolle-12.csv)
+ELEKTRON besitzt 12 Rollen im System:
 
-## Energieverteilung auf RUN8
-540° / 8 = 67.5° pro Ziel
+- Bindung
+- Resonanz
+- Feldwirkung
+- Ausrichtung
+- Zustand
+- Energiefluss
+- Interaktion
+- Symmetrie
+- Tunnelverhalten
+- Superposition
+- Potentialraum
+- Meta-Charakter
 
-## MOVE · Transformation
-UFO → RUN8  
-E = 67.5° pro Ziel
+Diese Rollen definieren, wie ELEKTRON im Atom und im System agiert.
 
-## 6-BLOCK-Matrix
-┌──────────┬──────────┐  
-│  HOME    │  TRANS   │  
-├──────────┼──────────┤  
-│  WARB    │  KANAL   │  
-├──────────┼──────────┤  
-│  UFO     │ CONTINIUM│  
-└──────────┴──────────┘
+---
 
-MOVE.html berechnet die Transformation.  
-index.html zeigt die Demo.
+## 4. Systemintegration
+ELEKTRON ist vollständig kompatibel mit:
+
+- **RUN8** (N, S, E, W, UP, DOWN, IN, OUT)
+- **UFO = 9^9** (mathematischer Mittelpunkt)
+- **6-BLOCK** (HOME, TRANS, WARB, KANAL, UFO, CONTINIUM)
+- **540° Energieverteilung** (67
